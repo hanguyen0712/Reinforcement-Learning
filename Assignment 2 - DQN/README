@@ -1,0 +1,5 @@
+This is my implementation of DQN to play Mountain Car-v0. The Medium article is found here: 
+https://ha-nguyen-39691.medium.com/playing-mountain-car-with-deep-q-learning-9bdce3715159
+
+Note: For now, the agent does not seem to be learning, and I still have not found the bug.
+I will continue fixing the code after the Capstone deadline. 
